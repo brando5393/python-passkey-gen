@@ -8,12 +8,14 @@ A short and sweet python program that can be used to automatically generate rand
 
 ## System Requirements
 **Operating System:**
+
     * Windows x32
     * Windows X64
     * Mac OSX
     * Linux x32
     * Linux x64
 **Software:**
+
     * Python version 3.7.6 or higher | [Download](https://www.python.org/downloads/)
     * Pyperclip | [View Docs](https://github.com/asweigart/pyperclip)
 
