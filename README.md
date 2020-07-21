@@ -13,6 +13,7 @@ A short and sweet python program that can be used to automatically generate rand
 * Mac OSX
 * Linux x32
 * Linux x64
+
 **Software:**
 
 * Python version 3.7.6 or higher | [Download](https://www.python.org/downloads/)
